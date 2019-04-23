@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\OrderingCoreAPI.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\netcoreapp2.1\OrderingCoreAPI.xml</DocumentationFile>
+    <OutputPath>bin\Debug\netcoreapp2.1\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
