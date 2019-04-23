@@ -1,0 +1,16 @@
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.deps.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.runtimeconfig.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.runtimeconfig.dev.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClient.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPI.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\bin\Debug\netcoreapp2.1\OrderingCoreAPIClient.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.csproj.CopyComplete
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClientSample\obj\Debug\netcoreapp2.1\OrderingCoreAPIClientSample.csprojAssemblyReference.cache

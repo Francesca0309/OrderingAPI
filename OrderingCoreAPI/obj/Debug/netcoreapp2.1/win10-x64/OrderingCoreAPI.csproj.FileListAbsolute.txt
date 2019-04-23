@@ -1,0 +1,17 @@
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.exe
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.deps.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.runtimeconfig.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.runtimeconfig.dev.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.csprojAssemblyReference.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.RazorAssemblyInfo.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.RazorAssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\win10-x64\OrderingCoreAPI.pdb

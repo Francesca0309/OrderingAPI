@@ -1,0 +1,12 @@
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\bin\Debug\netcoreapp2.1\OrderingCoreAPIClient.deps.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\bin\Debug\netcoreapp2.1\OrderingCoreAPIClient.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\bin\Debug\netcoreapp2.1\OrderingCoreAPIClient.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\bin\Debug\netcoreapp2.1\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\bin\Debug\netcoreapp2.1\OrderingCoreAPI.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.csproj.CopyComplete
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPIClient\obj\Debug\netcoreapp2.1\OrderingCoreAPIClient.csprojAssemblyReference.cache

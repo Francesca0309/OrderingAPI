@@ -1,0 +1,14 @@
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\OrderingCoreAPI.deps.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\OrderingCoreAPI.runtimeconfig.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\OrderingCoreAPI.runtimeconfig.dev.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\OrderingCoreAPI.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.RazorAssemblyInfo.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.RazorAssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\obj\Debug\netcoreapp2.1\OrderingCoreAPI.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPI\bin\Debug\netcoreapp2.1\OrderingCoreAPI.xml

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrderingCoreAPI</name>
+    </assembly>
+    <members>
+        <member name="M:OrderCoreAPI.Controllers.OrdersController.Get">
+            <summary>
+            Get all the orders
+            </summary>
+            <returns>A response containg a list of all the orders</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.OrdersController.Get(System.Guid)">
+            <summary>
+            Get the order by the specified id
+            </summary>
+            <param name="id">The order id</param>
+            <returns>A response containg the order object</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.OrdersController.Post(OrderCoreAPI.Models.Order)">
+            <summary>
+            Create an order
+            </summary>
+            <param name="order">If the parameter is null or empty, then an empty order is 
+            created with a new generated id. Otherwise creates the order,with the details specified</param>
+            <returns>A response containing the order object in case of a successful result</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.OrdersController.Put(System.Guid,OrderCoreAPI.Models.Order)">
+            <summary>
+            Fully update the order if the order object is specified, otherwise clear up the
+            order contents
+            </summary>
+            <param name="orderId">The order Id.</param>
+            <param name="order">The order object. If it is not specified, then the order contents
+            will be removed</param>
+            <returns>A response containing the updated object in case of a successful result</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.OrdersController.Put(System.Guid,System.Guid,System.Int32)">
+            <summary>
+            Update the order by adding/removing products or increasing/decreasing 
+            the quantity of existing order items
+            </summary>
+            <param name="orderId">The order Id</param>
+            <param name="productId">The product id. If the order does not contain already an
+            order item with this id, then it will be added to the order </param>
+            <param name="quantity">The new quantity of the product. 
+            This can be a positive or a negative number to increase or 
+            decrease the quantity of the order item </param>
+            <returns>A response containing also the updated object in case of a successful result</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.OrdersController.Delete(System.Guid)">
+            <summary>
+            Delete an order and all its contents
+            </summary>
+            <param name="id">The order id</param>
+            <returns>Return a response containing the appropriate status code</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.ProductsController.Get">
+            <summary>
+            Get all the products
+            </summary>
+            <returns>A response containing a list of all the products in the system</returns>
+        </member>
+        <member name="M:OrderCoreAPI.Controllers.ProductsController.Get(System.Guid)">
+            <summary>
+            Get the product with the specified id
+            </summary>
+            <param name="id">The product id</param>
+            <returns>A response containg the product object if found</returns>
+        </member>
+    </members>
+</doc>

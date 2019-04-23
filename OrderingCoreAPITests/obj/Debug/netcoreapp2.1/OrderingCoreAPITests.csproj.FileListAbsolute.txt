@@ -1,0 +1,17 @@
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPITests.deps.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPITests.runtimeconfig.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPITests.runtimeconfig.dev.json
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPITests.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPITests.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPI.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\bin\Debug\netcoreapp2.1\OrderingCoreAPI.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.csproj.CopyComplete
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.dll
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.pdb
+C:\Users\Francesca\source\repos\OrderManagement\OrderingCoreAPITests\obj\Debug\netcoreapp2.1\OrderingCoreAPITests.csprojAssemblyReference.cache
